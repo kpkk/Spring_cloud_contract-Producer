@@ -1,0 +1,12 @@
+{
+  "id" : "013f058f-c5b1-463d-a1f2-c505a85a78fc",
+  "request" : {
+    "urlPath" : "/message",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : ""
+  },
+  "uuid" : "013f058f-c5b1-463d-a1f2-c505a85a78fc"
+}
